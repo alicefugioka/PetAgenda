@@ -1,3 +1,6 @@
+---
+
+```markdown
 # 🐾 PetAgenda — Sistema de Agendamento e Gestão para Pet Shops
 
 > Plataforma web simples e eficiente para a gestão de agendamentos e histórico de serviços em pet shops de pequeno e médio porte, oferecendo autonomia aos clientes e organização aos gestores.
