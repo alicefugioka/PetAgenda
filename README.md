@@ -1,8 +1,3 @@
-Aqui tens o ficheiro **`README.md`** completo e formatado em Markdown, pronto para copiares e colares diretamente na raiz do teu repositório do GitHub.
-
----
-
-```markdown
 # 🐾 PetAgenda — Sistema de Agendamento e Gestão para Pet Shops
 
 > Plataforma web simples e eficiente para a gestão de agendamentos e histórico de serviços em pet shops de pequeno e médio porte, oferecendo autonomia aos clientes e organização aos gestores.
