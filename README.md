@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🐾 PetAgenda — Sistema de Agendamento e Gestão para Pet Shops
 
